@@ -16,7 +16,7 @@ CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Ap
 # Preprocessed Images
 ![Architecture Screenshot](https://github.com/ChayanBhansali/cnn_captcha_recognition/blob/main/preimage.png)
 # Model Architecture
-![Architecture Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Architecture Screenshot](https://github.com/ChayanBhansali/cnn_captcha_recognition/blob/main/architecture.png)
 ## 🔗 Links
 
 
