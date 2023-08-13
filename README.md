@@ -14,7 +14,7 @@ This repository contains a Python script for CAPTCHA recognition using Convoluti
 CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) is a security mechanism commonly used to distinguish between humans and automated bots. In this project, we leverage a dataset from Kaggle to train a CNN model that can recognize characters within CAPTCHA images. The process involves preprocessing the CAPTCHA images, building and training a CNN model, and evaluating its performance.
 
 # Preprocessed Images
-![Architecture Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Architecture Screenshot](https://github.com/ChayanBhansali/cnn_captcha_recognition/blob/main/preimage.png)
 # Model Architecture
 ![Architecture Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ## 🔗 Links
