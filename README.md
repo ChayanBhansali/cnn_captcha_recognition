@@ -5,7 +5,7 @@
 
 
 
-![App Screenshot](https://github.com/ChayanBhansali/cnn_captcha_recognition/blob/main/epoch.png)
+
 
 # Introduction
 This repository contains a Python script for CAPTCHA recognition using Convolutional Neural Networks (CNNs). The script processes a set of CAPTCHA images, extracts individual characters, and trains a CNN model to classify these characters.
